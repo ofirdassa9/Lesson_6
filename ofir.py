@@ -1,5 +1,5 @@
 from selenium import webdriver
-iimport time2
+import time
 
 #1
 
